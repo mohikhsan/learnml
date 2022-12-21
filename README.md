@@ -1,6 +1,6 @@
 # learnml
 
-Repository for  machine learning practice. Contains different types of machine learning models (regression, classification, clustering, neural nets, etc.) and datasets/links to datasets that can be used for practice. For my own practice, but maybe can be useful for somebody else.
+Repository for  machine learning practice. Contains different types of machine learning models (regression, classification, clustering, neural nets, etc.) and datasets/links to datasets that can be used for practice. These were created as I reviewed & relearned ml models using modern ml libraries. I hope they can be useful for somebody else learning / relearning ml. Feel free to contribute :)
 
 ## Getting Started
 
